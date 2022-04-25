@@ -1,0 +1,1 @@
+(window.stackbitJsonp=window.stackbitJsonp||[]).push([[10],{1258:function(n,t,i){"use strict";i.r(t),i.d(t,"initDebugging",(function(){return e}));var o=i(1),c=i(18),e=function(){var n=new URLSearchParams(window.location.search).get("perfDebug");"local"===c.a.env&&n&&i(856)(o,{trackAllPureComponents:!0,include:[/^ConnectFunction/]})}}}]);
